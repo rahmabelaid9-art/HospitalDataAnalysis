@@ -1,0 +1,11 @@
+PatientID,Age,Sex,BloodPressure,Cholesterol,Diagnosis
+P001,25,Female,110,180,Healthy
+P002,45,Male,135,240,Diabetes
+P003,35,Female,120,195,Healthy
+P004,60,Male,150,260,Heart Disease
+P005,50,Female,140,230,Diabetes
+P006,30,Male,118,190,Healthy
+P007,55,Female,145,250,Heart Disease
+P008,40,Male,130,220,Diabetes
+P009,65,Female,155,270,Heart Disease
+P010,28,Male,115,185,Healthy
